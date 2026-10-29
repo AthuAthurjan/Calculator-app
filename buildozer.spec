@@ -1,1 +1,1 @@
-title equals My Calculator
+title = My Calculator
